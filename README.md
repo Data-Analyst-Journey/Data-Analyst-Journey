@@ -36,7 +36,7 @@ Currently building my portfolio with real-world projects and preparing to reloca
 🌍 **Let's Connect**
 
 📧 Email: s.kavianfar.data@gmail.com  
-💼 LinkedIn:  https://www.linkedin.com/in/samaneh-kavianfar-8a93033b2/
+💼 LinkedIn: https://www.linkedin.com/in/samaneh-kavianfar-8a93033b2/
 📂 GitHub: https://github.com/Data-Analyst-Journey
 
 ---
