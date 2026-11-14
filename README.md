@@ -53,11 +53,12 @@ Developed a full data pipeline using **dbt** and **Python**, and built an intera
 
 ### 5. Automated Data Cleaning Pipeline (OOP)
 Built a Python (OOP) pipeline that automates data cleaning, generates quality reports, and saves **70% of manual effort**.  
-*Tools: Python, JSON, Power BI*
+*Tools: Python, JSON, Power BI* 
 
-🔗 View Repository:https://github.com/Data-Analyst-Journey/Automated-Data-Cleaning-Pipeline-OOP-
+🔗 View Repository: https://github.com/Data-Analyst-Journey/Automated-Data-Cleaning-Pipeline-OOP-
+
+
 ---
-
 ## 🌍 Let's Connect
 
 - 📧 Email: s.kavianfar.data@gmail.com
